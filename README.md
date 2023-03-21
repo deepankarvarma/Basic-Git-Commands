@@ -12,12 +12,12 @@ Commands related to the workflow:<br>
 Commands related to checking status or log history<br>
         `git status`<br>
         `git log`<br>
-<br><br>
+<br>
 The basic Git syntax is program | action | destination.
 
 For example,
-
-    git add . is read as git | add | ., where the period represents everything in the current directory;
-    git commit -m "message" is read as git | commit -m | "message"; and
-    git status is read as git | status | (no destination).
+<br>
+git add . is read as git | add | ., where the period represents everything in the current directory;<br>
+git commit -m "message" is read as git | commit -m | "message"; and<br>
+git status is read as git | status | (no destination).<br>
 
