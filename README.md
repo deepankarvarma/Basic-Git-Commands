@@ -3,7 +3,10 @@
 
 This is a reference list of the most commonly used Git commands. (You might consider bookmarking this handy page). Try to familiarize yourself with the commands so that you can eventually remember them all:
 <br>
-<img src="https://github.com/deepankarvarma/Basic-Git-Commands/blob/master/command.png" width=500>
+<br>
+<img src="https://github.com/deepankarvarma/Basic-Git-Commands/blob/master/command.png" width=1000>
+<br>
+<br>
 Commands related to a remote repository:<br>
         `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git`<br>
         `git push or git push origin main (Both accomplish the same goal in this context)`<br><br>
